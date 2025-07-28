@@ -1,0 +1,10 @@
+rfdetr==1.2.1
+supervision==0.25.1
+pycocotools==2.0.10
+matplotlib==3.10.3
+opencv-python==4.11.0.86
+roboflow==1.1.66
+torch==2.7.1
+pillow==11.2.1
+albumentations==2.0.8
+tqdm==4.67.1
